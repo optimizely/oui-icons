@@ -4,8 +4,8 @@ Default icons for the Optimizely apps and other OUI projects.
 
 ## Getting Started
 
-- Clone the repo
-- run `npm install`
+- Clone the repo run `npm install`
+- Individual svg icons live in `/src/` 
 
 ## Usage
 
