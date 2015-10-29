@@ -3,13 +3,16 @@ var gulp        = require('gulp'),
 
 // Creates SVG sprite and demo page.
 // gulp svg
-gulp.task('svg', function () {
-  return gulp.src('./src/*.svg')
+gulp.task('svg:16', function () {
+  return gulp.src('./src/16/*.svg')
     .pipe(svgSymbols({
       title:      false,
-      templates: ['template/svg-template.html']
+      templates: [
+        'default-svg', // generates the SVG sprite
+        'template/16.html' // example file
+      ]
     }))
     .pipe(gulp.dest('./dist'));
 });
 
-gulp.task('default');
+gulp.task('default', ['svg:16']);

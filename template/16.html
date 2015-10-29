@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Gulp SVG Symbols test page</title>
+    <title>OUI Icons 16x16</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width" />
     <style type="text/css">
@@ -144,7 +144,7 @@
       <%= icon.svg.content %>
     </symbol><%
 }); %></svg>
-    <h1>OUI Icons</h1>
+    <h1>OUI Icons 16x16</h1>
     <main><% _.each( icons, function( icon ){ %>
       <div class="icon-item">
         <p>#<%= icon.id %></p>
@@ -160,7 +160,7 @@
             <label onclick="gulpSvgSymbol.reflow('code-<%= icon.id %>')" for="toggle-<%= icon.id %>">Show</label>
           </div>
 <pre>
-<code id="code-<%= icon.id %>"><%= _.escape('<svg class="') %><%= icon.id %><%= _.escape('">') %>
+<code id="code-<%= icon.id %>"><%= _.escape('<svg class="icon">') %>
   <%= _.escape('<use xlink:href="#') %><%= icon.id %><%= _.escape('"></use>') %>
 <%= _.escape('</svg>') %></code>
 </pre>
