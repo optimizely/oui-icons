@@ -3,10 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
 <svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 16 16" xml:space="preserve">
-<g id="XMLID_54_">
-	<g id="XMLID_55_">
-		<path d="M0.5,15.9c-0.1,0-0.1,0-0.2-0.1c-0.1-0.1-0.2-0.2-0.2-0.3v-15c0-0.1,0.1-0.3,0.2-0.3c0.1-0.1,0.2-0.1,0.4,0l15,7.5
-			c0.1,0.1,0.2,0.2,0.2,0.3s-0.1,0.3-0.2,0.3l-15,7.5C0.6,15.9,0.6,15.9,0.5,15.9z M0.9,1.1v13.8L14.7,8L0.9,1.1z"/>
-	</g>
+<g id="XMLID_758_">
+	<path d="M0.5,16c-0.1,0-0.2,0-0.3-0.1C0.1,15.8,0,15.7,0,15.5v-15c0-0.2,0.1-0.3,0.2-0.4C0.4,0,0.6,0,0.7,0.1l15,7.5
+		C15.9,7.6,16,7.8,16,8s-0.1,0.4-0.3,0.4l-15,7.5C0.7,16,0.6,16,0.5,16z M1,1.3v13.4L14.4,8L1,1.3z"/>
 </g>
 </svg>

@@ -12,7 +12,20 @@ gulp.task('svg:16', function () {
         'template/16.html' // example file
       ]
     }))
-    .pipe(gulp.dest('./dist'));
+    .pipe(gulp.dest('./dist/16'));
 });
 
-gulp.task('default', ['svg:16']);
+gulp.task('svg:24', function () {
+  return gulp.src('./src/24/*.svg')
+    .pipe(svgSymbols({
+      title:      false,
+      templates: [
+        'default-svg', // generates the SVG sprite
+        'template/24.html' // example file
+      ]
+    }))
+    .pipe(gulp.dest('./dist/24'));
+});
+
+
+gulp.task('default', ['svg:16','svg:24']);
