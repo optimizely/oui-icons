@@ -18,7 +18,6 @@ The default code for a 16x16 individual icon is:
 
 ```
 <svg class="icon">
-  <use xlink:href="#add"></use>
+  <use xlink:href="#add-16"></use>
 </svg>
 ```
-
