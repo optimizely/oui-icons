@@ -3,13 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
 <svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 24 24" xml:space="preserve">
-<g>
-	<circle cx="4" cy="11.5" r="3"/>
-</g>
-<g>
-	<circle cx="12.5" cy="11.5" r="3"/>
-</g>
-<g>
-	<circle cx="20.5" cy="11.5" r="3"/>
-</g>
+<circle cx="4" cy="11.5" r="3"/>
+<circle cx="12.5" cy="11.5" r="3"/>
+<circle cx="20.5" cy="11.5" r="3"/>
 </svg>

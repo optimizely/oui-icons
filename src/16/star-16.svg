@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
-<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" viewBox="0 0 16 16" xml:space="preserve">
-<g>
+<svg version="1.1" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 16 16" xml:space="preserve">
+<g id="Layer_1">
 	<g>
 		<path d="M3.349,15.096c-0.104,0-0.207-0.032-0.295-0.096c-0.153-0.112-0.23-0.302-0.198-0.489L3.69,9.672L0.152,6.243
 			C0.016,6.11-0.034,5.911,0.024,5.729C0.083,5.549,0.24,5.416,0.429,5.389l4.893-0.706l2.186-4.405
@@ -14,5 +14,9 @@
 			c-0.163-0.023-0.304-0.126-0.377-0.272L7.955,1.624L6.101,5.362C6.027,5.509,5.887,5.611,5.724,5.635L1.579,6.233l2.997,2.903
 			c0.119,0.115,0.173,0.281,0.146,0.444l-0.708,4.104l3.71-1.939C7.796,11.707,7.876,11.688,7.955,11.688z"/>
 	</g>
+</g>
+<g id="Layer_2">
+</g>
+<g id="Layer_3">
 </g>
 </svg>
