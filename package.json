@@ -4,6 +4,7 @@
   "description": "Default icons for the Optimizely apps and other OUI projects",
   "main": "index.js",
   "scripts": {
+    "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
