@@ -1,9 +1,9 @@
 {
   "name": "oui-icons",
-  "version": "1.0.0",
-  "description": "Default icons for the Optimizely apps and other OUI projects",
-  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Icons for the Optimizely application and other OUI projects.",
   "scripts": {
+    "postinstall": "gulp",
     "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

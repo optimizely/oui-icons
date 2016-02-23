@@ -1,11 +1,11 @@
 # OUI Icons
 
-Default icons for the Optimizely apps and other OUI projects.
+Icons for the Optimizely application and other OUI projects.
 
 ## Getting Started
 
 - Clone the repo run `npm install`
-- Individual svg icons live in `/src/` 
+- Individual svg icons live in `/src/`
 
 ## Usage
 
