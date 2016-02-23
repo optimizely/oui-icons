@@ -3,8 +3,10 @@
   "version": "0.0.0",
   "description": "Icons for the Optimizely application and other OUI projects.",
   "scripts": {
-    "postinstall": "gulp",
     "start": "gulp",
+    "postinstall": "gulp",
+    "preversion": "npm test",
+    "postversion": "git push && git push --tags && npm publish",
     "test": "gulp"
   },
   "repository": {
