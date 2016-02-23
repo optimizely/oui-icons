@@ -21,8 +21,8 @@ Icons for the Optimizely application and other OUI projects.
 
 ## Adding an icon
 
-See [Contributing.md](https://github.com/optimizely/oui-icons/blob/master/CONTRIBUTING.md).
+See [CONTRIBUTING.md](https://github.com/optimizely/oui-icons/blob/master/CONTRIBUTING.md).
 
 ## Releasing a new version
 
-See [Contributing.md](https://github.com/optimizely/oui-icons/blob/master/CONTRIBUTING.md).
+See [CONTRIBUTING.md](https://github.com/optimizely/oui-icons/blob/master/CONTRIBUTING.md).
