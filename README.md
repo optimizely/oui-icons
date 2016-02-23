@@ -6,20 +6,15 @@ Icons for the Optimizely application and other OUI projects.
 
 ## Getting Started
 
-- Clone the repo run `npm install`
-- Individual svg icons live in `/src/`
+1. Run `npm install --save oui-icons` to include the latest icons in your project. A post-install script will build SVG sprites.
+2. Include the following [SVG sprites](https://css-tricks.com/svg-sprites-use-better-icon-fonts/) at the beginning of your project's `<body>` tag:
+    - `/node_modules/oui-icons/dist/16/svg-symbols.svg`
+    - `/node_modules/oui-icons/dist/24/svg-symbols.svg`
 
-## Usage
-
-Run `gulp` to run the tasks that generate the svg sprites. After the tasks run in `dist` you'll find:
-
-- `svg-symbols.svg` file that can be copied into your project. The code should appear as the first child of the `<body>`.
-- `16.html` is a template to view the icons and copy the code for it to render.
-
-The default code for a 16x16 individual icon is:
-
-```
-<svg class="icon">
-  <use xlink:href="#add-16"></use>
-</svg>
+  This is best done by including the file with your templating engine.
+3. Reference an icon in the HTML with:
+```html
+  <svg>
+    <use xlink:href="#icon-id"></use>
+  </svg>
 ```
