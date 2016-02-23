@@ -15,7 +15,7 @@ Icons for the Optimizely application and other OUI projects.
 3. Reference an icon in the HTML with:
 
     ```html
-      <svg>
-        <use xlink:href="#icon-id"></use>
-      </svg>
+    <svg>
+      <use xlink:href="#icon-id"></use>
+    </svg>
     ```
