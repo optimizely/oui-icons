@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/optimizely/oui-icons.svg?branch=master)](https://travis-ci.org/optimizely/oui-icons)
+
 # OUI Icons
 
 Icons for the Optimizely application and other OUI projects.
