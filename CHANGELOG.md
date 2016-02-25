@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+### Fixed
+- [Patch] Move `gulp-svg-symbols` to `dependencies`, not `devDependencies`.
 
 ## [0.1.1][0.1.1] - 2016-02-22
 ### Fixed

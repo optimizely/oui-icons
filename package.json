@@ -19,8 +19,10 @@
     "url": "https://github.com/optimizely/oui-icons/issues"
   },
   "homepage": "https://github.com/optimizely/oui-icons#readme",
-  "devDependencies": {
-    "gulp": "^3.9.0",
+  "dependencies": {
     "gulp-svg-symbols": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
   }
 }
