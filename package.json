@@ -1,6 +1,6 @@
 {
   "name": "oui-icons",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Icons for the Optimizely application and other OUI projects.",
   "scripts": {
     "start": "gulp",
