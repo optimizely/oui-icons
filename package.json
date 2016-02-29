@@ -6,7 +6,8 @@
     "start": "gulp",
     "postinstall": "gulp",
     "preversion": "npm test",
-    "postversion": "git push && git push --tags && npm publish",
+    "postversion": "git push && git push --tags && npm publish && npm run deploy",
+    "deploy": "rsync -rv --delete ./dist/ ubuntu@design.optimizely.com:/var/www/oui-icons/$(npm view oui-icons version) && ssh -t ubuntu@design.optimizely.com \"rm -f /var/www/design-dot/oui/core/icons && ln -s /var/www/oui-icons /var/www/design-dot/oui/core/icons\"",
     "test": "gulp"
   },
   "repository": {

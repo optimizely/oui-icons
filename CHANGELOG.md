@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+- [Feature] Add a deploy post version hook.
+- [Patch] Improve `.gitignore`.
 
 ## [0.1.2][0.1.2] - 2016-02-24
 ### Fixed
