@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 24 24" xml:space="preserve">
 <g id="XMLID_654_">
 	<g id="XMLID_1215_">
-		<path id="XMLID_868_" fill="#010101" d="M10,13H2c-0.3,0-0.5-0.2-0.5-0.5S1.7,12,2,12h8c0.3,0,0.5,0.2,0.5,0.5S10.3,13,10,13z"/>
+		<path id="XMLID_868_" d="M10,13H2c-0.3,0-0.5-0.2-0.5-0.5S1.7,12,2,12h8c0.3,0,0.5,0.2,0.5,0.5S10.3,13,10,13z"/>
 	</g>
 	<g id="XMLID_1214_">
-		<path id="XMLID_867_" fill="#010101" d="M21,13h-8c-0.3,0-0.5-0.2-0.5-0.5S12.7,12,13,12h8c0.3,0,0.5,0.2,0.5,0.5S21.3,13,21,13z"
-			/>
+		<path id="XMLID_867_" d="M21,13h-8c-0.3,0-0.5-0.2-0.5-0.5S12.7,12,13,12h8c0.3,0,0.5,0.2,0.5,0.5S21.3,13,21,13z"/>
 	</g>
 	<g id="XMLID_657_">
-		<path id="XMLID_860_" fill="#010101" d="M21.5,21h-20C1.2,21,1,20.8,1,20.5v-13C1,7.2,1.2,7,1.5,7h20C21.8,7,22,7.2,22,7.5v13
+		<path id="XMLID_860_" d="M21.5,21h-20C1.2,21,1,20.8,1,20.5v-13C1,7.2,1.2,7,1.5,7h20C21.8,7,22,7.2,22,7.5v13
 			C22,20.8,21.8,21,21.5,21z M2,20h19V8H2V20z"/>
 	</g>
 	<g id="XMLID_656_">
-		<path id="XMLID_857_" fill="#010101" d="M12.5,16h-2c-0.3,0-0.5-0.2-0.5-0.5v-4c0-0.3,0.2-0.5,0.5-0.5h2c0.3,0,0.5,0.2,0.5,0.5v4
+		<path id="XMLID_857_" d="M12.5,16h-2c-0.3,0-0.5-0.2-0.5-0.5v-4c0-0.3,0.2-0.5,0.5-0.5h2c0.3,0,0.5,0.2,0.5,0.5v4
 			C13,15.8,12.8,16,12.5,16z M11,15h1v-3h-1V15z"/>
 	</g>
 	<g id="XMLID_655_">
-		<path id="XMLID_721_" fill="#010101" d="M15.7,8h-1c0-2-1.4-3.2-3.2-3.2S8.3,6,8.3,8h-1c0-3,1.9-4.2,4.2-4.2
-			C13.8,3.8,15.7,5,15.7,8z"/>
+		<path id="XMLID_721_" d="M15.7,8h-1c0-2-1.4-3.2-3.2-3.2S8.3,6,8.3,8h-1c0-3,1.9-4.2,4.2-4.2C13.8,3.8,15.7,5,15.7,8z"/>
 	</g>
 </g>
 </svg>
