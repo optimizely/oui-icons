@@ -12,7 +12,7 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 - [Patch] Changed icon for hamburger to solid lines.
 
 ### Fixed
-- [Patch] Fix typo for "ellipsis" and "exclamation" (#6)
+- [Release] Fix typo for previously misspelled "elipsis" and "exclimation", now "ellipsis" and "exclamation" (#6)
 - [Patch] Converted icon colors to solid black so that `fill` color value will apply correctly.
 
 ### Removed
