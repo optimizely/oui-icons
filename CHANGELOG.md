@@ -6,6 +6,17 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 
 ## [Unreleased][Unreleased]
 
+### Added
+
+### Changed
+- [Patch] Changed icon for hamburger to solid lines.
+
+### Fixed
+- [Patch] Fix typo for "ellipsis" and "exclamation" (#6)
+- [Patch] Converted icon colors to solid black so that `fill` color value will apply correctly.
+
+### Removed
+
 ## [0.2.0][0.2.0] - 2016-02-29
 ### Added
 - [Feature] Add a deploy post version hook.
