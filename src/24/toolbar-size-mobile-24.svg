@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 24 24" xml:space="preserve">
 <g id="XMLID_497_">
 	<g id="XMLID_508_">
-		<path id="XMLID_1325_" fill="#010101" d="M15.9,21H8.1C6.9,21,6,20.1,6,18.9V4.1C6,2.9,6.9,2,8.1,2H16c1.1,0,2,0.9,2,2.1V19
+		<path id="XMLID_1325_" d="M15.9,21H8.1C6.9,21,6,20.1,6,18.9V4.1C6,2.9,6.9,2,8.1,2H16c1.1,0,2,0.9,2,2.1V19
 			C18,20.1,17.1,21,15.9,21z M8.1,3C7.5,3,7,3.5,7,4.1V19c0,0.5,0.5,1,1.1,1H16c0.6,0,1.1-0.5,1.1-1.1V4.1C17,3.5,16.5,3,15.9,3H8.1
 			z"/>
 	</g>
 	<g id="XMLID_507_">
-		<rect id="XMLID_1323_" x="6" y="6" fill="#010101" width="11" height="1"/>
+		<rect id="XMLID_1323_" x="6" y="6" width="11" height="1"/>
 	</g>
 	<g id="XMLID_506_">
-		<rect id="XMLID_1321_" x="6" y="17" fill="#010101" width="11" height="1"/>
+		<rect id="XMLID_1321_" x="6" y="17" width="11" height="1"/>
 	</g>
 	<g id="XMLID_505_">
-		<rect id="XMLID_1320_" x="10" y="4" fill="#010101" width="4" height="1"/>
+		<rect id="XMLID_1320_" x="10" y="4" width="4" height="1"/>
 	</g>
 	<g id="XMLID_499_">
-		<circle id="XMLID_885_" fill="#010101" cx="12" cy="19.4" r="0.9"/>
+		<circle id="XMLID_885_" cx="12" cy="19.4" r="0.9"/>
 	</g>
 </g>
 </svg>
