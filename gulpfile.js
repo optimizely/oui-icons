@@ -27,5 +27,16 @@ gulp.task('svg:24', function () {
     .pipe(gulp.dest('./dist/24'));
 });
 
+gulp.task('svg:combined', function () {
+  return gulp.src('./src/**/*.svg')
+    .pipe(svgSymbols({
+      title:      false,
+      templates: [
+        'default-svg' // generates the SVG sprite
+      ]
+    }))
+    .pipe(gulp.dest('./dist/combined'));
+});
+
 
 gulp.task('default', ['svg:16','svg:24']);
