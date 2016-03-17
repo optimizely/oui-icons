@@ -10,6 +10,7 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 
 ### Changed
 - [Patch] Changed icon for hamburger to solid lines.
+- [Patch] Changed icons for `winner`, `loser`, and `inconclusive`.
 
 ### Fixed
 - [Release] Fix typo for previously misspelled "elipsis" and "exclimation", now "ellipsis" and "exclamation" (#6)
