@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+### Added
+- [Feature] Adding icon for `toolbar-new-window-closed-24`.
 
 ## [1.0.0][1.0.0] - 2016-03-17
 ### Added
