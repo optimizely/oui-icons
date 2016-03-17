@@ -7,9 +7,9 @@
     "postinstall": "gulp",
     "preversion": "npm test",
     "postversion": "git push && git push --tags && npm publish && npm run deploy",
-    "deploy": "npm start && npm run deploy-rsync && npm run deploy-symlink",
+    "deploy": "npm install && npm start && npm run deploy-rsync && npm run deploy-symlink",
     "deploy-rsync": "rsync -rv --delete ./dist/ ubuntu@design.optimizely.com:/var/www/oui-icons/$(npm view oui-icons version)",
-    "deploy-symlink": "ssh -t ubuntu@design.optimizely.com \"rm -f /var/www/design-dot/oui-icons && ln -s /var/www/oui-icons /var/www/design-dot/oui-icons\"",
+    "deploy-symlink": "ssh -t ubuntu@design.optimizely.com \"rm -f /var/www/design-dot/docs/oui-icons && mkdir -p /var/www/design-dot/docs && ln -s /var/www/oui-icons/ /var/www/design-dot/docs/oui-icons\"",
     "test": "gulp"
   },
   "repository": {

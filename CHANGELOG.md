@@ -12,12 +12,11 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 
 ### Changed
 - [Patch] Changed icon for hamburger to solid lines.
+- [Patch] Change the directory that the files are uploaded to.
 
 ### Fixed
 - [Release] Fix typo for previously misspelled "elipsis" and "exclimation", now "ellipsis" and "exclamation" (#6)
 - [Patch] Converted icon colors to solid black so that `fill` color value will apply correctly.
-
-### Removed
 
 ## [0.2.0][0.2.0] - 2016-02-29
 ### Added
