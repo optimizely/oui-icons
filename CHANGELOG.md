@@ -7,7 +7,7 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 ## [Unreleased][Unreleased]
 
 ### Added
-- [Patch] Adding task to output single svg file with both 16 and 24 sized icons.
+- [Feature] Adding task to output single svg file with both 16 and 24 sized icons.
 
 ### Changed
 - [Patch] Changed icon for hamburger to solid lines.
