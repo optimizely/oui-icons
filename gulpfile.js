@@ -39,4 +39,4 @@ gulp.task('svg:combined', function () {
 });
 
 
-gulp.task('default', ['svg:16','svg:24']);
+gulp.task('default', ['svg:16', 'svg:24', 'svg:combined']);
