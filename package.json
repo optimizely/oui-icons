@@ -25,5 +25,5 @@
   "dependencies": {
     "gulp": "^3.9.0",
     "gulp-svg-symbols": "^1.0.0"
-  },
+  }
 }
