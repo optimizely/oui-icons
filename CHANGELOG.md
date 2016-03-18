@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+### Fixed
+- [Patch] Move `gulp` into dependencies, not devDependencies, because it is needed for the postinstall script.
 
 ## [1.1.0][1.1.0] - 2016-03-17
 ### Added

@@ -23,9 +23,7 @@
   },
   "homepage": "https://github.com/optimizely/oui-icons#readme",
   "dependencies": {
+    "gulp": "^3.9.0",
     "gulp-svg-symbols": "^1.0.0"
   },
-  "devDependencies": {
-    "gulp": "^3.9.0"
-  }
 }
