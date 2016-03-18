@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+### Fixed
+- [Patch] Flipping direction of `refresh` icon. It was backwards.
 
 ## [1.1.1][1.1.1] - 2016-03-17
 ### Fixed
