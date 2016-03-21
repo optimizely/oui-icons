@@ -12,6 +12,7 @@
     "deploy-symlink": "ssh -t ubuntu@design.optimizely.com \"rm -f /var/www/design-dot/docs/oui-icons && mkdir -p /var/www/design-dot/docs && ln -s /var/www/oui-icons/ /var/www/design-dot/docs/oui-icons\"",
     "test": "gulp"
   },
+  "main": "dist/combined/svg-symbols.svg",
   "repository": {
     "type": "git",
     "url": "https://github.com/optimizely/oui-icons.git"

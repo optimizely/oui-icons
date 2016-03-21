@@ -7,6 +7,7 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 ## [Unreleased][Unreleased]
 ### Fixed
 - [Patch] Flipping direction of `refresh` icon. It was backwards.
+- [Patch] Add `dist/combined/svg-symbols.svg` as the `main` property in `package.json`. This enables developers to `require('oui-icons')` and get the combined SVG sprite.
 
 ## [1.1.1][1.1.1] - 2016-03-17
 ### Fixed
