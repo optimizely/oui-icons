@@ -59,7 +59,7 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 ## 0.0.0 - 2016-02-22
 Initial version.
 
-[Unreleased]: https://github.com/optimizely/oui-icons/compare/v1.1.2...HEAD
+[Unreleased]: https://github.com/optimizely/oui-icons/compare/v1.1.3...HEAD
 [0.1.0]: https://github.com/optimizely/oui-icons/compare/v0.0.0...v0.1.0
 [0.1.1]: https://github.com/optimizely/oui-icons/compare/v0.1.0...v0.1.1
 [0.1.2]: https://github.com/optimizely/oui-icons/compare/v0.1.1...v0.1.2
@@ -68,3 +68,4 @@ Initial version.
 [1.1.0]: https://github.com/optimizely/oui-icons/compare/v1.0.0...v1.1.0
 [1.1.1]: https://github.com/optimizely/oui-icons/compare/v1.1.0...v1.1.1
 [1.1.2]: https://github.com/optimizely/oui-icons/compare/v1.1.1...v1.1.2
+[1.1.3]: https://github.com/optimizely/oui-icons/compare/v1.1.2...v1.1.3
