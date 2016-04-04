@@ -19,9 +19,19 @@ Icons for the Optimizely application and other OUI projects.
     </svg>
     ```
 
-## Adding an icon
+## Adding and Editing Icons
 
-See [CONTRIBUTING.md](https://github.com/optimizely/oui-icons/blob/master/CONTRIBUTING.md).
+Please make changes to the source .ai files in Dropbox:
+[https://www.dropbox.com/work/Design/oui-icons/source](https://www.dropbox.com/work/Design/oui-icons/source)
+
+Then to export the svg files:
+- make sure you export from the `expanded` version
+- Select `File` > `Save a copy`
+- Then select `Format` > `SVG`
+- And check `Use artboards`
+- Change the Filename to `icon_` so that when files are saved each file will have an `icon_` prefix with the artboard name after
+- Once svg files are saved, you can remove the `icon_` prefix by selecting all the files in the finder folder, clicking the gear icon, and selecting `Rename # items...`
+- Then you can copy the icons to this repo and make a Pull Request
 
 ## Releasing a new version
 
