@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+
+## [1.1.3][1.1.3] - 2016-04-04
 ### Changed
 - [Patch] Change `winner` and `loser` icons.
 - [Patch] Change direction of `refresh` and `sync` icons.
