@@ -6,6 +6,10 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 
 ## [Unreleased][Unreleased]
 
+## [2.0.0][2.0.0] - 2016-04-06
+### Changed
+- [Release] Change `24/toolbar-new-window-closed-24` icon to `24/toolbar-new-window-close-24`.
+
 ## [1.1.3][1.1.3] - 2016-04-04
 ### Changed
 - [Patch] Change `winner` and `loser` icons.
@@ -69,3 +73,4 @@ Initial version.
 [1.1.1]: https://github.com/optimizely/oui-icons/compare/v1.1.0...v1.1.1
 [1.1.2]: https://github.com/optimizely/oui-icons/compare/v1.1.1...v1.1.2
 [1.1.3]: https://github.com/optimizely/oui-icons/compare/v1.1.2...v1.1.3
+[2.0.0]: https://github.com/optimizely/oui-icons/compare/v1.1.3...v2.0.0
