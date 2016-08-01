@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+### Fixed
+- [Release] Rename `src/24/variation-settings.svg` to `src/24/variation-settings-24.svg` so it follows our file naming conventions. (#23)
 
 ## [2.0.0][2.0.0] - 2016-04-06
 ### Changed
