@@ -5,6 +5,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+### Added
+- [Feature] Added new 24-px icons for `create-ab`, `create-campaign`, and `create-mvt`.
+
 ### Fixed
 - [Release] Rename `src/24/variation-settings.svg` to `src/24/variation-settings-24.svg` so it follows our file naming conventions. (#23)
 
