@@ -5,6 +5,9 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+### Changed
+- [Patch] Change `experiment` icon.
+
 ## [3.0.1][3.0.1] - 2016-08-02
 ### Fixed
 - [Patch] Removed fill from `create-campaign` svg.
