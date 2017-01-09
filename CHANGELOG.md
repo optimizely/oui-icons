@@ -5,6 +5,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+
 ## [3.0.2][3.0.2] - 2017-01-09
 ### Changed
 - [Patch] Change `experiment` icon.
@@ -77,7 +78,7 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 ## 0.0.0 - 2016-02-22
 Initial version.
 
-[Unreleased]: https://github.com/optimizely/oui-icons/compare/v3.0.1...HEAD
+[Unreleased]: https://github.com/optimizely/oui-icons/compare/v3.0.2...HEAD
 [0.1.0]: https://github.com/optimizely/oui-icons/compare/v0.0.0...v0.1.0
 [0.1.1]: https://github.com/optimizely/oui-icons/compare/v0.1.0...v0.1.1
 [0.1.2]: https://github.com/optimizely/oui-icons/compare/v0.1.1...v0.1.2
@@ -90,3 +91,4 @@ Initial version.
 [2.0.0]: https://github.com/optimizely/oui-icons/compare/v1.1.3...v2.0.0
 [3.0.0]: https://github.com/optimizely/oui-icons/compare/v2.0.0...v3.0.0
 [3.0.1]: https://github.com/optimizely/oui-icons/compare/v3.0.0...v3.0.1
+[3.0.2]: https://github.com/optimizely/oui-icons/compare/v3.0.1...v3.0.2
