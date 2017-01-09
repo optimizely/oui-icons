@@ -5,6 +5,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+## [3.0.2][3.0.2] - 2017-01-09
 ### Changed
 - [Patch] Change `experiment` icon.
 
