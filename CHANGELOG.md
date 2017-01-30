@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+### Added
+- [Feature] Add Preferences, Vote Up and Vote Down icons for both 16px and 24px.
 
 ## [3.0.3][3.0.3] - 2017-01-09
 __This version was created accidentally and does not contain any meaningful changes.__
