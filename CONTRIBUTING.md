@@ -21,3 +21,14 @@
    * `npm version patch` - version includes a backwards-compatible bug fix or tweak. This includes small icon style modifications.
    * `npm version minor` - version includes a backwards compaitible new "feature" such as a new icon.
    * `npm version major` - version contains a non-backwards compaitible breaking change such as a renamed or deleted icon.
+
+If all went well, then you should see the new version on npm, here:
+https://www.npmjs.com/package/oui-icons
+
+## Troubleshooting
+
+If you have an npm version older than 3.0, then you run `npm run postversion` manually.
+
+You will get an error publishing to npm if you have not been added as a contributor to the oui-icons package on npm, you can email daniel@optimizely.com about this.
+
+You will get an error syncing the files to design.optimizely.com if you don't have your ssh keys setup for design.optimizely.com, you can email daniel@optimizely.com about this.
