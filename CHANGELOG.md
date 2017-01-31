@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+
+## [3.1.0][3.1.0] - 2017-01-30
 ### Added
 - [Feature] Add Preferences, Vote Up and Vote Down icons for both 16px and 24px.
 
@@ -83,7 +85,7 @@ __This version was created accidentally and does not contain any meaningful chan
 ## 0.0.0 - 2016-02-22
 Initial version.
 
-[Unreleased]: https://github.com/optimizely/oui-icons/compare/v3.0.3...HEAD
+[Unreleased]: https://github.com/optimizely/oui-icons/compare/v3.1.0...HEAD
 [0.1.0]: https://github.com/optimizely/oui-icons/compare/v0.0.0...v0.1.0
 [0.1.1]: https://github.com/optimizely/oui-icons/compare/v0.1.0...v0.1.1
 [0.1.2]: https://github.com/optimizely/oui-icons/compare/v0.1.1...v0.1.2
@@ -98,3 +100,4 @@ Initial version.
 [3.0.1]: https://github.com/optimizely/oui-icons/compare/v3.0.0...v3.0.1
 [3.0.2]: https://github.com/optimizely/oui-icons/compare/v3.0.1...v3.0.2
 [3.0.3]: https://github.com/optimizely/oui-icons/compare/v3.0.2...v3.0.3
+[3.1.0]: https://github.com/optimizely/oui-icons/compare/v3.0.3...v3.1.0
