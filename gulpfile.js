@@ -1,10 +1,12 @@
 var gulp        = require('gulp'),
+    svgo        = require('gulp-svgo'),
     svgSymbols  = require('gulp-svg-symbols');
 
 // Creates SVG sprite and demo page.
 // gulp svg
 gulp.task('svg:16', function () {
   return gulp.src('./src/16/*.svg')
+    .pipe(svgo())
     .pipe(svgSymbols({
       title:      false,
       templates: [
@@ -17,6 +19,7 @@ gulp.task('svg:16', function () {
 
 gulp.task('svg:24', function () {
   return gulp.src('./src/24/*.svg')
+    .pipe(svgo())
     .pipe(svgSymbols({
       title:      false,
       templates: [
@@ -29,6 +32,7 @@ gulp.task('svg:24', function () {
 
 gulp.task('svg:combined', function () {
   return gulp.src('./src/**/*.svg')
+    .pipe(svgo())
     .pipe(svgSymbols({
       title:      false,
       templates: [

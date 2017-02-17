@@ -7,6 +7,7 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 ## Unreleased
 ### Changed
 - [Patch] Clean up documentation and simplify `CHANGELOG.md` to make future maintenance easier.
+- [Patch] Run icons through `svgo` to compress file sizes and improve performance.
 
 ## 3.1.0 - 2017-01-30
 ### Added
