@@ -4,8 +4,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
-## Unreleased
+## [Unreleased][Unreleased]
 ### Changed
+- [Patch] Move `gulp` and `gulp-svg-symbols` to `devDependencies`.
+- [Patch] Include compiled icons in NPM release.
 - [Patch] Clean up documentation and simplify `CHANGELOG.md` to make future maintenance easier.
 - [Patch] Run icons through `svgo` to compress file sizes and improve performance.
 

@@ -1,0 +1,6 @@
+# This prevents NPM from using the `.gitignore`. It is needed because we want
+# to include `dist/` in the package release but `dist/` is part of
+# `.gitignore`.
+#
+# The files we _do_ want to include in the NPM release are whitelisted in our
+# `package.json`.
