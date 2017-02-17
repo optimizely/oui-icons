@@ -4,35 +4,50 @@
 
 Icons for the Optimizely application and other OUI projects.
 
-## Getting started
+## Using the icons
 
-1. Run `npm install --save oui-icons` to include the latest icons in your project. A post-install script will build SVG sprites.
-2. Include the following [SVG sprites](https://css-tricks.com/svg-sprites-use-better-icon-fonts/) at the beginning of your project's `<body>` tag:
-    - `./node_modules/oui-icons/dist/combined/svg-symbols.svg`
-
-  This is best done by including the file with your templating engine.
-3. Reference an icon in the HTML with:
+1. **Download the package:** Run `npm install --save oui-icons` to include the latest icons in your project.
+2. **Include the SVG sprite:** This package ships with an SVG sprite that contains all of the icons. Include the SVG sprite at the beginning of your website’s `<body>` tag. The sprite can be referenced with `require('oui-icons')` if using a project with webpack and an SVG loader. Projects not using webpack can include the sprite by including the icons with your templating engine: `./node_modules/oui-icons/dist/combined/svg-symbols.svg`.
+3. **Using an icon:** You can use one of the icons in the HTML with:
 
     ```html
     <svg>
-      <use xlink:href="#icon-id"></use>
+      <use xlink:href="#code-24"></use>
     </svg>
     ```
 
-## Adding and Editing Icons
+    The complete list of icons can be found at: [link.otimizely.com/oui-icons](http://link.optimizely.com/oui-icons).
 
-Please make changes to the source .ai files in Dropbox:
-[https://www.dropbox.com/work/Design/oui-icons/source](https://www.dropbox.com/work/Design/oui-icons/source)
+## Adding and editing icons
 
-Then to export the svg files:
-- make sure you export from the `expanded` version
-- Select `File` > `Save a copy`
-- Then select `Format` > `SVG`
-- And check `Use artboards`
-- Change the Filename to `icon_` so that when files are saved each file will have an `icon_` prefix with the artboard name after
-- Once svg files are saved, you can remove the `icon_` prefix by selecting all the files in the finder folder, clicking the gear icon, and selecting `Rename # items...`
-- Then you can copy the icons to this repo and make a Pull Request
+1. Add the icon to the appropriate folder in `src/`.
+2. Update the [CHANGELOG.md](https://github.com/optimizely/oui-icons/blob/master/CHANGELOG.md) to include information about the change in the “Unreleased” section. Here are some tips:
+  - Each list item falls under one of the following categories: `Added`, `Changed`, `Fixed`, or `Removed`.
+  - Each item is labeled either `[Patch]`, `[Feature]`, or `Release`.
+    - `[Patch]`: Backwards compatible fixes (patches) to existing icons, infrastructure, or documentation.
+    - `[Feature]`: New icons or features that are backwards compatible.
+    - `[Release]`: Changes that are not backwards compatible such as the removal of an icon.
+  - Changes should always be added in the “Unreleased” section.
+3. Create a pull request on GitHub and assign a UI Engineer or Frontend Engineer.
 
 ## Releasing a new version
 
-See [CONTRIBUTING.md](https://github.com/optimizely/oui-icons/blob/master/CONTRIBUTING.md).
+### Prerequisite
+* You must have deploy access to [design.optimizely.com](http://design.optimizely.com/) and be listed as a contributor on the [`oui-icons` NPM package](https://www.npmjs.com/package/oui-icons). Contact a UI Engineer for help.
+* You must be using a version of NPM larger than `2.11.0`. This is when NPM added support for the `postversion` hook that we rely on. You can check your version by running `npm -v` in the command line.
+
+### How to release
+
+1. Run `git checkout master && git pull`.
+2. Open the `CHANGELOG.md`, update to reflect the new version, and commit the change. Here are some tips:
+  * The new version number depends on the severity of the changes in the version that is being released. Here are examples:
+    * `[Release]` – `1.2.3` would become `2.0.0`.
+    * `[Feature]` – `1.2.3` would become `1.3.0`.
+    * `[Patch]` – `1.2.3` would become `1.2.4`.
+  * The commit should include the `CHANGELOG.md` update. The message could be: “Prep for 3.1.3 release.”
+  * Do _not_ update the `package.json` in this step.
+  * There should be nothing left in the “Unreleased” section.
+3. Run the command that matches the highest severity change in this release:
+  * `npm version patch` - version includes a backwards-compatible bug fix or tweak. This includes small icon style modifications.
+  * `npm version minor` - version includes a backwards compatible new "feature" such as a new icon.
+  * `npm version major` - version contains a non-backwards compatible breaking change such as a renamed or deleted icon.
