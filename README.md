@@ -4,6 +4,8 @@
 
 Icons for the Optimizely application and other OUI projects.
 
+[View all the icons](http://link.optimizely.com/oui-icons).
+
 ## Using the icons
 
 1. **Download the package:** Run `npm install --save oui-icons` to include the latest icons in your project.
