@@ -1,6 +1,6 @@
 {
   "name": "oui-icons",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "Icons for the Optimizely application and other OUI projects.",
   "scripts": {
     "start": "gulp",
@@ -12,7 +12,9 @@
     "test": "npm start"
   },
   "main": "dist/combined/svg-symbols.svg",
-  "files": ["dist/"],
+  "files": [
+    "dist/"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/optimizely/oui-icons.git"
