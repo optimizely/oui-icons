@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+
+## 3.2.0 - 2017-03-07
 ### Added
 - [Feature] Add Extensions icons for both 16px and 24px.
 
