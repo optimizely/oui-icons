@@ -6,6 +6,9 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 
 ## [Unreleased][Unreleased]
 
+## 3.3.0 - 2017-03-10
+__This version was created accidentally and does not contain any meaningful changes.__
+
 ## 3.2.0 - 2017-03-07
 ### Added
 - [Feature] Add Extensions icons for both 16px and 24px.
