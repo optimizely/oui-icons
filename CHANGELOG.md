@@ -7,7 +7,7 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 ## [Unreleased][Unreleased]
 
 ## 3.5.0 - 2017-04-10
-- Accidental version bump due to npm permissions issues.
+__Accidental version bump due to npm permissions issues.__
 
 ## 3.4.0 - 2017-04-10
 ### Added
