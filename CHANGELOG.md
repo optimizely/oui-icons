@@ -6,6 +6,10 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 
 ## [Unreleased][Unreleased]
 
+## 3.4.0 - 2017-04-10
+### Added
+- [Feature] Add Code and Download icons for both 16px and 24px.
+
 ## 3.3.0 - 2017-03-10
 __This version was created accidentally and does not contain any meaningful changes.__
 
