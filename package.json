@@ -14,6 +14,7 @@
   "main": "dist/combined/svg-symbols.svg",
   "files": [
     "dist/"
+    "src/"
   ],
   "repository": {
     "type": "git",
