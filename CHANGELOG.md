@@ -6,6 +6,10 @@ This file follows the format suggested by [Keep a CHANGELOG](https://github.com/
 
 ## [Unreleased][Unreleased]
 
+## 3.7.0 - 2017-06-01
+### Added
+- [Feature] Add Feature Flag and Rollout icons for both 16px and 24px.
+
 ## 3.6.0 - 2017-04-10
 __Accidental version bumps due to npm permissions issues.__
 
