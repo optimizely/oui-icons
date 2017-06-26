@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+### Added
+- [Feature] Add Orientation icons (portrait and landscape) for 24px.
 
 ## 3.7.0 - 2017-06-01
 ### Added
