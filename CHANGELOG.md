@@ -5,6 +5,8 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This file follows the format suggested by [Keep a CHANGELOG](https://github.com/olivierlacan/keep-a-changelog).
 
 ## [Unreleased][Unreleased]
+
+## 3.10.0 - 2017-07-25
 ### Added
 - [Feature] Add MVT icon for 16px and 24px.
 
