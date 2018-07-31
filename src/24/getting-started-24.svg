@@ -1,10 +1,10 @@
 <svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-    <rect x="0.5" y="12.5" width="10" height="10" rx="2" ry="2" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round"/>
-    <rect x="13.5" y="12.5" width="10" height="10" rx="2" ry="2" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round"/>
-    <rect x="6.5" y="0.5" width="10" height="10" rx="2" ry="2" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round"/>
-    <path d="M3.55,14.65h2.5a1.5,1.5,0,0,1,0,3H3.55Z" transform="translate(-0.05 -0.15)" style="fill:none;stroke:#000;stroke-linejoin:round"/>
-    <path d="M3.55,17.65h2.5a1.5,1.5,0,0,1,0,3H3.55Z" transform="translate(-0.05 -0.15)" style="fill:none;stroke:#000;stroke-linejoin:round"/>
-    <polyline points="8.95 8.34 11.52 2.37 13.95 8.34" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round"/>
-    <line x1="9.5" y1="6.5" x2="13.5" y2="6.5" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round"/>
-    <path d="M21.06,19.62A3,3,0,1,1,21,15.3" transform="translate(-0.05 -0.15)" style="fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round"/>
+    <rect x="0.5" y="12.5" width="10" height="10" rx="2" ry="2" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round"/>
+    <rect x="13.5" y="12.5" width="10" height="10" rx="2" ry="2" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round"/>
+    <rect x="6.5" y="0.5" width="10" height="10" rx="2" ry="2" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M3.55,14.65h2.5a1.5,1.5,0,0,1,0,3H3.55Z" transform="translate(-0.05 -0.15)" style="fill:none;stroke:#fff;stroke-linejoin:round"/>
+    <path d="M3.55,17.65h2.5a1.5,1.5,0,0,1,0,3H3.55Z" transform="translate(-0.05 -0.15)" style="fill:none;stroke:#fff;stroke-linejoin:round"/>
+    <polyline points="8.95 8.34 11.52 2.37 13.95 8.34" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round"/>
+    <line x1="9.5" y1="6.5" x2="13.5" y2="6.5" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M21.06,19.62A3,3,0,1,1,21,15.3" transform="translate(-0.05 -0.15)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round"/>
 </svg>
